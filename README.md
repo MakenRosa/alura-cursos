@@ -13,7 +13,7 @@ Este repositório contém os cursos realizados na plataforma Alura, com foco na 
 
 ### TypeScript Projetos
 
-- Negociações
+- [Negociações](https://alura-typescript-pt1-pt2.vercel.app/)
   - Passo 1: Clone o repositório
     ```
     git clone https://github.com/makenrosa/alura-cursos.git
