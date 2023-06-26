@@ -2,8 +2,6 @@
     display: flex;
     justify-content: center;
     background-color: var(--preto);
-    position: absolute;
-    bottom: 0;
     width: 100%;
 }
 
