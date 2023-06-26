@@ -1,19 +1,32 @@
 import Titulo from "components/Titulo";
 import Banner from "components/Banner";
-import Cabecalho from "components/Cabecalho";
-import Rodape from "components/Rodape";
 import Card from "components/Card";
+import styles from "./Inicio.module.css"
+import { useEffect, useState } from "react";
+import { useFavoritosContext } from "contexts/Favoritos";
 
 function Inicio() {
+    const [videos, setVideos] = useState([]);
+    const {favoritos} = useFavoritosContext();
+
+
+    useEffect(() => {
+        fetch('https://my-json-server.typicode.com/monicahillman/cinetag-api/videos').then(resposta => resposta.json()).then(dados => {
+            setVideos(dados);
+        })
+    }, []);
+
     return (
         <>
-            <Cabecalho />
             <Banner imagem="home" />
             <Titulo>
                 <h1>Um lugar para guardar seus vídeos e filmes!</h1>
             </Titulo>
-            <Card id="1" titulo="Filme 1" capa="https://picsum.photos/200/300" />
-            <Rodape />
+            <section className={styles.container}>
+                {videos.map((video) => {
+                    return <Card {...video} key={video.id} isFavorito={favoritos.some(favorito => favorito.id === video.id)} />
+                })}
+            </section>
         </>
     )
 }
