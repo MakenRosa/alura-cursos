@@ -33,7 +33,7 @@ Este repositório contém os cursos realizados na plataforma Alura, com foco na 
 
 ### React Projetos
 
-- Cinetag
+- [Cinetag](https://alura-react-cinetag-silk.vercel.app/)
   - Passo 1: Clone o repositório
     ```
     git clone https://github.com/makenrosa/alura-cursos.git
