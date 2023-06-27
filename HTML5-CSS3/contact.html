@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - Alura Barbershop</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="box">
+            <h1><img src="logo.png"></h1>
+            <nav>
+                <ul class="navigation">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="products.html">Products</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <form action="">
+            <label for="full-name">Full name</label>
+            <input type="text" id="full-name" class="input-default" required>
+
+            <label for="email">E-mail</label>
+            <input type="email" id="email" class="input-default" required placeholder="youremail@domain.com">
+
+            <label for="phone">Phone</label>
+            <input type="tel" id="phone" class="input-default" required placeholder="(xx)x xxxx-xxxx">
+
+            <label for="message">Message</label>
+            <textarea id="message" cols="50" rows="5"></textarea class="input-default" required>
+
+            <div>
+                <p>How do you prefer to be contacted?</p>
+                <label for="radio-email"><input type="radio" id="radio-email" name="contact" value="email">E-mail</label>
+                
+                <label for="radio-phone"><input type="radio" id="radio-phone" name="contact" value="telefone">Phone</label>
+                
+                <label for="radio-whatsapp"><input type="radio" id="radio-whatsapp" name="contact" value="whatsapp" checked>Whatsapp</label>
+                
+            </div>
+
+            <div>
+                <p>What time do you prefer to be attended?</p>
+                <select name="time" id="time">
+                    <option value="morning">Morning</option>
+                    <option value="afternoon">Afternoon</option>
+                    <option value="evening">Evening</option>
+                </select>                
+            </div>
+            <label>
+                <input class="checkbox" type="checkbox" checked>Would you like to receive our updates by email?</input>
+            </label>
+
+            <input type="submit" value="Send form">
+        </form>
+    </main>
+    <footer>
+        <img src="white-logo.png">
+        <p class="copyright">
+            &copy; Copyrigth Alura - 2019
+        </p>
+    </footer>
+</body>
+</html>

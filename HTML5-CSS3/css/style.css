@@ -3,7 +3,7 @@ header {
     padding: 20px 0;
 }
 
-.caixa {
+.box {
     position: relative;
     width: 940px;
     margin: 0 auto;
@@ -34,13 +34,13 @@ nav a:hover {
     transition: all 0.1s;
 }
 
-.produtos {
+.products {
     width: 940px;
     margin: 0 auto;
     padding: 50px 0;
 }
 
-.produtos li {
+.products li {
     display: inline-block;
     text-align: center;
     width: 30%;
@@ -52,30 +52,30 @@ nav a:hover {
     border-radius: 10px;
 }
 
-.produtos li:hover {
+.products li:hover {
     border-color: #b48018;
     transition: all 0.1s;
 }
 
-.produtos li:active {
+.products li:active {
     border-color: #088c19;
 }
 
-.produtos li:hover h2 {
+.products li:hover h2 {
     font-size: 35px;
     transition: all 0.2s;
 }
 
-.produtos h2 {
+.products h2 {
     font-size: 30px;
     font-weight: bold;
 }
 
-.produto-descricao {
+.product-description {
     font-size: 18px;
 }
 
-.produto-preco {
+.product-price {
     font-size: 20px;
     font-weight: bold;
     color: #b48018;
@@ -98,7 +98,7 @@ form label, form p {
 
 }
 
-.input-padrao {
+.input-default {
     display: block;
     margin-bottom: 20px;
     padding: 10px 20px;
