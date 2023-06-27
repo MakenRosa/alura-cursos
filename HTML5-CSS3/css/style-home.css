@@ -9,7 +9,7 @@ header {
     padding: 20px 0;
 }
 
-.caixa {
+.box {
     position: relative;
     width: 940px;
     margin: 0 auto;
@@ -40,7 +40,7 @@ nav a:hover {
     transition: all 0.1s;
 }
 
-.navegacao {
+.navigation {
     width: 100%;
 }
 
@@ -48,16 +48,16 @@ nav a:hover {
     width: 100%;
 }
 
-.principal {
+.main {
     background-color: #CCCCCC;
     padding: 30px;
 }
 
-.titulo-principal {
+.main-title {
     padding-left: 20px;
 }
 
-.titulo-centralizado {
+.centered-title {
     text-align: center;
 }
 
@@ -65,7 +65,7 @@ p {
     text-align: center;
 }
 
-#missao {
+#mission {
     font-size: 20px;
 }
 
@@ -80,16 +80,16 @@ ul {
     margin-right: 15%;
 }
 
-.itens {
+.items {
     font-style: italic;
     text-decoration: none;
 }
 
-.beneficios {
+.benefits {
     background: #FFFFFF;
     padding: 20px
 }
 
-.imagem-beneficios {
+.benefits-image {
     width: 50%
 }
