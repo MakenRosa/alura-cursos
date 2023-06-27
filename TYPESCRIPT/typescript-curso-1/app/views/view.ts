@@ -1,16 +1,16 @@
 export abstract class View<T> {
-    protected elemento: HTMLElement;
-    private escapar: boolean = false;
+    protected element: HTMLElement;
+    private scape: boolean = false;
 
-    constructor(seletor: string, escapar?: boolean) {
-        const elemento = document.querySelector(seletor);
-        if (elemento) {
-            this.elemento = elemento as HTMLElement;
+    constructor(selector: string, scape?: boolean) {
+        const element = document.querySelector(selector);
+        if (element) {
+            this.element = element as HTMLElement;
         } else {
-            throw Error(`Seletor ${seletor} não existe no DOM. Verifique.`);
+            throw Error(`selector ${selector} does not exists in DOM. Check it!.`);
         }
-        if (escapar) {
-            this.escapar = escapar;
+        if (scape) {
+            this.scape = scape;
         }
     }
 
@@ -18,10 +18,10 @@ export abstract class View<T> {
 
     public update(model: T): void {
         let template = this.template(model);
-        if (this.escapar){
+        if (this.scape){
             template = template.replace(/<script>[\s\S]*?<\/script>/, '');
         }
-        this.elemento.innerHTML = template;
+        this.element.innerHTML = template;
     }
 
 }
