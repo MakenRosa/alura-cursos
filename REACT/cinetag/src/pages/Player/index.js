@@ -1,34 +1,36 @@
 import Banner from 'components/Banner';
 import styles from './Player.module.css';
-import Titulo from 'components/Titulo';
+import Title from 'components/Title';
 import { useParams } from 'react-router-dom';
-import NaoEncontrada from 'pages/NaoEncontrada';
+import NotFound from 'pages/NotFound';
 import { useEffect, useState } from 'react';
 
 function Player () {
     const [video, setVideo] = useState({});
-    const parametros = useParams();
+    const params = useParams();
     
     useEffect(() => {
-        fetch(`https://my-json-server.typicode.com/monicahillman/cinetag-api/videos?id=${parametros.id}`).then(resposta => resposta.json()).then(dados => {
-            setVideo(...dados);
+        fetch(`https://my-json-server.typicode.com/monicahillman/cinetag-api/videos?id=${params.id}`).then(response => response.json()).then(data => {
+            setVideo(...data);
         })
-    }, [parametros.id]);
+    }, [params.id]);
 
     if (!video) {
-        return <NaoEncontrada />
+        return <NotFound />
     }
 
     return (
         <>
-            <Banner imagem="player"/>
-            <Titulo>
+            <Banner image="player"/>
+            <Title>
                 <h1>Player</h1>
-            </Titulo>
+            </Title>
             <section className={styles.container}>
-                <iframe width="100%" height="100%"
+                <iframe 
+                width="100%" 
+                height="100%"
                 src={video.link}
-                title={video.titulo}
+                title={video.Title}
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </section>
