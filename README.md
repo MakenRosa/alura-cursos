@@ -51,7 +51,7 @@ Este repositório contém os cursos realizados na plataforma Alura, com foco na 
     npm start
     ```
 
-- Organo
+- [Organo](https://alura-react-organo-beta.vercel.app/)
   - Passo 1: Clone o repositório
     ```
     git clone https://github.com/makenrosa/alura-cursos.git
