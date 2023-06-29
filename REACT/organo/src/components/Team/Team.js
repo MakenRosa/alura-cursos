@@ -10,8 +10,7 @@ export const Team = ({name, primaryColor, secondaryColor, employees, ...props}) 
             <div className='employees'>
                 {
                     employees.map(employee => (
-                        <Employ
-                        ee
+                        <Employee
                             key={employee.name}
                             name={employee.name}
                             job={employee.job}
