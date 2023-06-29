@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/MakenRosa/alura-cursos/compare/v1.1.0...v1.1.1) (2023-06-29)
+
+
+### Bug Fixes
+
+* **react:** fixed syntax error on project organo ([3ddf017](https://github.com/MakenRosa/alura-cursos/commit/3ddf017bc8a463fd56ad9d121f79df65390637ec))
+
 # [1.1.0](https://github.com/MakenRosa/alura-cursos/compare/v1.0.0...v1.1.0) (2023-06-29)
 
 
