@@ -3,6 +3,8 @@ import Banner from './components/Banner';
 import Form from './components/Form';
 import Team from './components/Team';
 import Footer from './components/Footer';
+import { IEmployee } from './shared/interface/IEmployee';
+
 
 function App() {
 
@@ -44,16 +46,15 @@ function App() {
     }
   ];  
 
-  const [employees, setEmployees] = useState([])
+  const [employees, setEmployees] = useState<IEmployee[]>([])
 
-  const onNewEmployee = (employee) => {
-    debugger
+  const onNewEmployee = (employee: IEmployee) => {
     setEmployees([...employees, employee])
   }
 
   return (
     <div className="App">
-      <Banner />
+      <Banner imageUrl="/images/banner.png" alt='Organo Logo' />
       <Form onRegisterEmployee={employee => onNewEmployee(employee)} teams={teams.map(team => team.name)} />
       {teams.map(team => (
       <Team
