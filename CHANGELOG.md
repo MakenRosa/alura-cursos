@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/MakenRosa/alura-cursos/compare/v1.1.2...v1.2.0) (2023-06-30)
+
+
+### Features
+
+* **react:** added date prop to components and converted to TS ([f632c1c](https://github.com/MakenRosa/alura-cursos/commit/f632c1c5bc043c6eba0ecd70ebd8a41ccd2e97ab))
+* **react:** added type prop to components and converted to TS ([5eb33b0](https://github.com/MakenRosa/alura-cursos/commit/5eb33b0249a0ba5b534adc5ccedece090abd37c7))
+* **react:** added url and alt props to Banner and converted to TS ([8e383f4](https://github.com/MakenRosa/alura-cursos/commit/8e383f4db735242aedcc3d31b9d5fa5b3c1be5ac))
+* **react:** adding Typescript to organo-ts ([c295814](https://github.com/MakenRosa/alura-cursos/commit/c2958145169b37290d5b379bd6870dd135156c61))
+* **react:** copied organo project ([7ed7058](https://github.com/MakenRosa/alura-cursos/commit/7ed7058e203a0dbdbc6a5d05bb3b9707a058a434))
+* **react:** created shared interface for employee ([3fd9932](https://github.com/MakenRosa/alura-cursos/commit/3fd99326ce6f899c93f92a0f67cf994d3a86d7ab))
+
 ## [1.1.2](https://github.com/MakenRosa/alura-cursos/compare/v1.1.1...v1.1.2) (2023-06-30)
 
 
