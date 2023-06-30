@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/MakenRosa/alura-cursos/compare/v1.2.0...v1.2.1) (2023-06-30)
+
+
+### Bug Fixes
+
+* **react:** updated typescript version ([75dcbf7](https://github.com/MakenRosa/alura-cursos/commit/75dcbf729e9f7794816dc0e5e76f4ea8869a04a0))
+
 # [1.2.0](https://github.com/MakenRosa/alura-cursos/compare/v1.1.2...v1.2.0) (2023-06-30)
 
 
