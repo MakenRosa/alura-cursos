@@ -4,6 +4,18 @@ import bank_logo from "../../assets/images/bank_logo.svg";
 
 import { primaryColor } from "../UI/variables";
 
+const BtnHeader = styled.a`
+  text-align: center;
+  border-radius: 3px;
+  padding: 5px 20px;
+  margin: 0 10px;
+  font-weight: 600;
+  border: 2px solid white;
+
+  background: ${(props) => props.primary ? "white" : primaryColor};
+  color: ${(props) => props.primary ? primaryColor : "white"};
+`
+
 const StyledHeader = styled.nav`
   background-color: ${primaryColor};
   display: flex;
@@ -23,12 +35,12 @@ const Header = () => {
     <StyledHeader>
       <Logo src={bank_logo} alt="Logo Smart Bank" />
       <div>
-        <a className="btn-secondary" href="https://google.com">
+        <BtnHeader primary href="https://google.com">
           Help
-        </a>
-        <a className="btn-primary" href="https://google.com">
+        </BtnHeader>
+        <BtnHeader  href="https://google.com">
           Quit
-        </a>
+        </BtnHeader>
       </div>
     </StyledHeader>
   );
