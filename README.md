@@ -51,25 +51,7 @@ Este repositório contém os cursos realizados na plataforma Alura, com foco na 
     npm start
     ```
 
-- [Organo](https://alura-react-organo-beta.vercel.app/)
-  - Passo 1: Clone o repositório
-    ```
-    git clone https://github.com/makenrosa/alura-cursos.git
-    ```
-  - Passo 2: Acesse a pasta do projeto
-    ```
-    cd alura-cursos/REACT/organo
-    ```
-  - Passo 3: Instale as dependências
-    ```
-    npm install
-    ```
-  - Passo 4: Inicie o projeto
-    ```
-    npm start
-    ```
-
-    - Organo-TS
+- [Organo-TS](https://alura-react-organo-ts.vercel.app/)
   - Passo 1: Clone o repositório
     ```
     git clone https://github.com/makenrosa/alura-cursos.git
@@ -86,5 +68,6 @@ Este repositório contém os cursos realizados na plataforma Alura, com foco na 
     ```
     npm start
     ```
+
 
 Certifique-se de ter o Node.js e o npm instalados em sua máquina antes de executar os comandos acima.
