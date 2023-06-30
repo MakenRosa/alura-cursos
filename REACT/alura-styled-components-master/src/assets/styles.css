@@ -9,7 +9,7 @@
   color: grey;
 }
 
-.btn-primario {
+.btn-primary {
   text-align: center;
   border-radius: 3px;
   padding: 5px 20px;
@@ -21,7 +21,7 @@
   background: transparent;
 }
 
-.btn-secundario {
+.btn-secondary {
   text-align: center;
   border-radius: 3px;
   padding: 5px 20px;
@@ -33,12 +33,12 @@
   color: #41d3be;
 }
 
-.titulo {
+.title {
   color: grey;
   padding: 25px 0;
 }
 
-.cabecalho {
+.header {
   background-color: #41d3be;
   display: flex;
   justify-content: space-between;
@@ -53,18 +53,18 @@
   padding: 0px 15vw;
 }
 
-.conteudo {
+.content {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
 
-.imagem-logo {
+.logo-image {
   height: 50px;
   width: 50px;
 }
 
-.imagem-icone {
+.icon-image {
   height: 25px;
   width: 25px;
 }
@@ -93,12 +93,12 @@
   width: 48%;
 }
 
-.saldo {
+.balance {
   font-weight: 700;
   font-size: 32px;
 }
 
-.detalhe {
+.detail {
   color: #41d3be;
   font-size: 24px;
 }
@@ -109,7 +109,7 @@
     margin: 5px;
   }
 
-  .conteudo {
+  .content {
     flex-direction: column;
   }
 }
