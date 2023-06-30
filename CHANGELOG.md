@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/MakenRosa/alura-cursos/compare/v1.1.1...v1.1.2) (2023-06-30)
+
+
+### Bug Fixes
+
+* **react:** fixed prop job not passed to component ([9a58d51](https://github.com/MakenRosa/alura-cursos/commit/9a58d51ff8b0dcfdee0ed09969c661bab3ccde04))
+
 ## [1.1.1](https://github.com/MakenRosa/alura-cursos/compare/v1.1.0...v1.1.1) (2023-06-29)
 
 
