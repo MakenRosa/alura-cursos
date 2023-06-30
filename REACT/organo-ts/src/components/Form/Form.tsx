@@ -1,19 +1,26 @@
-import { useState } from 'react'
+import { FormEvent, useState } from 'react'
 import Button from '../Button'
 import Dropdown from '../Dropdown'
 import TextField from '../TextField'
 import './Form.css'
+import { IEmployee } from '../../shared/interface/IEmployee'
 
-export const Form = ({onRegisterEmployee, teams, ...props}) => {
+interface FormProps {
+    onRegisterEmployee: (employee: IEmployee) => void
+    teams: string[]
+}
+
+export const Form = ({onRegisterEmployee, teams} :FormProps) => {
 
     const [name, setName] = useState('')
     const [job, setJob] = useState('')
     const [image, setImage] = useState('')
     const [team, setTeam] = useState(teams[0])
+    const [date, setDate] = useState('')
 
-    const onSave = (event) => {
+    const onSave = (event: FormEvent<HTMLFormElement>) => {
         event.preventDefault()
-        onRegisterEmployee({name, job, image, team})
+        onRegisterEmployee({name, job, image, team, date})
         cleanForm()
     }
 
@@ -21,6 +28,8 @@ export const Form = ({onRegisterEmployee, teams, ...props}) => {
         setName('')
         setJob('')
         setImage('')
+        setTeam(teams[0])
+        setDate('')
     }
 
     return (
@@ -43,7 +52,14 @@ export const Form = ({onRegisterEmployee, teams, ...props}) => {
                     label="Image"
                     onChange={ value => setImage(value) }
                     placeholder='Type image url...'
+                    type='url'
                     value={image}
+                />
+                <TextField
+                    label="Entry Date"
+                    onChange={ value => setDate(value) }
+                    type='date'
+                    value={date}
                 />
                 <Dropdown
                     items={teams}
