@@ -1,3 +1,14 @@
+# [1.3.0](https://github.com/MakenRosa/alura-cursos/compare/v1.2.2...v1.3.0) (2023-07-03)
+
+
+### Features
+
+* **react:** added bank statement and item(s) components ([6eb55f4](https://github.com/MakenRosa/alura-cursos/commit/6eb55f481306a43456efe267023c5c294415687a))
+* **react:** added dark mode ([0b443e7](https://github.com/MakenRosa/alura-cursos/commit/0b443e737a8ef1465e07bc83bd3a65c42d136dc6))
+* **react:** added styled-components ([86689a1](https://github.com/MakenRosa/alura-cursos/commit/86689a1d0a9d19cc50aa6ab0ba1a25a1b383ea3f))
+* **react:** cloned course project ([30f2c70](https://github.com/MakenRosa/alura-cursos/commit/30f2c70730c4be930286a4ce30764bffe2e6ec27))
+* **react:** translated all styled-components base project to portuguese ([7eb4e00](https://github.com/MakenRosa/alura-cursos/commit/7eb4e00f0f498815c30180319c1fc905d81b74df))
+
 ## [1.2.2](https://github.com/MakenRosa/alura-cursos/compare/v1.2.1...v1.2.2) (2023-06-30)
 
 
