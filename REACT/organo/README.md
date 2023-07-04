@@ -1,70 +1,132 @@
-# Getting Started with Create React App
+# Organo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este é um projeto desenvolvido durante o curso "React" da Alura, no qual foram explorados conhecimentos aprofundados sobre o desenvolvimento com essa popular framework JavaScript. Durante o curso, os participantes têm a oportunidade de aprender a aproveitar as vantagens do React, como eficiência e reutilização de componentes, para o desenvolvimento de aplicações modernas e responsivas. Além disso, o curso aborda os seguintes tópicos:
 
-## Available Scripts
+- Criação de componentes reativos utilizando React.
+- Análise e tratamento de mensagens de erro.
+- Modificação e evolução de componentes de acordo com as necessidades do projeto.
+- Prototipagem de uma aplicação do zero até o deploy.
+- Garantia de uma experiência completa no desenvolvimento com React.
 
-In the project directory, you can run:
+## Como clonar o repositório
 
-### `npm start`
+Siga as etapas abaixo para clonar este repositório e executar o projeto em sua máquina local:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Certifique-se de ter o Git instalado em sua máquina. Você pode fazer o download e instalar o Git a partir do [site oficial do Git](https://git-scm.com/).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. Abra o terminal ou prompt de comando.
 
-### `npm test`
+3. Navegue até o diretório onde deseja clonar o repositório.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+4. Execute o seguinte comando para clonar o repositório:
 
-### `npm run build`
+```git clone https://github.com/makenrosa/alura-organo.git```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+5. Após o término do processo de clonagem, você terá uma cópia local do repositório em seu computador.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Executando o projeto
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Para executar o projeto React, siga as etapas abaixo:
 
-### `npm run eject`
+1. Navegue até o diretório onde você clonou o repositório.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2. Abra o terminal ou prompt de comando.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. Certifique-se de ter o Node.js instalado em sua máquina. Você pode fazer o download e instalar o Node.js a partir do [site oficial do Node.js](https://nodejs.org/).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+4. Execute o seguinte comando para instalar as dependências do projeto:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```npm install```
 
-## Learn More
+5. Após a instalação das dependências, execute o seguinte comando para iniciar o servidor de desenvolvimento:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```npm start```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+6. O servidor de desenvolvimento será iniciado e você poderá visualizar o projeto em execução no endereço `http://localhost:3000`.
 
-### Code Splitting
+## Estrutura do projeto
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+A estrutura básica do projeto é a seguinte:
 
-### Analyzing the Bundle Size
+```Organo/
+├── public/
+│   ├── index.html
+│   ├── favicon.ico
+│   └── images/
+│        ├─ banner.png
+│        ├─ fb.png
+│        ├─ ig.png
+│        ├─ tw.png
+│        ├─ fundo.png
+│        └─ logo.png
+├── src/
+│   ├── index.js
+│   ├── index.css
+│   ├── App.js
+│   └── components/
+│        ├── Banner/
+│        │    ├── index.js
+│        │    ├── Banner.js
+│        │    └── Banner.css
+│        ├── Button/
+│        │    ├── index.js
+│        │    ├── Button.js
+│        │    └── Button.css
+│        ├── Dropdown/
+│        │    ├── index.js
+│        │    ├── Dropdown.js
+│        │    └── Dropdown.css
+│        ├── Employee/
+│        │    ├── index.js
+│        │    ├── Employee.js
+│        │    └── Employee.css
+│        ├── Footer/
+│        │    ├── index.js
+│        │    ├── Footer.js
+│        │    └── Footer.css
+│        ├── Form/
+│        │    ├── index.js
+│        │    ├── Form.js
+│        │    └── Form.css
+│        ├── Team/
+│        │    ├── index.js
+│        │    ├── Team.js
+│        │    └── Team.css
+│        └── TextField/
+│             ├── index.js
+│             ├── TextField.js
+│             └── TextField.css
+├── .gitignore
+├── package.json
+└── package-lock.json
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+- O diretório `public/` contém o arquivo `index.html`, que é o ponto de entrada da aplicação, além de outros arquivos estáticos como `favicon.ico` e a pasta `images/` que contém imagens utilizadas no projeto.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- O diretório `src/` é onde se encontra o código-fonte da aplicação.
+  - O arquivo `src/index.js` é responsável por renderizar a aplicação no elemento `root` do HTML.
+  - O arquivo `src/index.css` contém estilos CSS globais para a aplicação.
+  - O arquivo `src/App.js` é o componente raiz da aplicação, onde as rotas e os componentes são definidos.
 
-### Advanced Configuration
+- O diretório `src/components/` contém os componentes reutilizáveis da aplicação, cada um em seu próprio diretório com arquivos de JavaScript e CSS relacionados.
+  - O diretório `Banner/` contém o componente `Banner.js` que representa um banner, juntamente com os arquivos `index.js` e `Banner.css`.
+  - O diretório `Button/` contém o componente `Button.js` que representa um botão, juntamente com os arquivos `index.js` e `Button.css`.
+  - O diretório `Dropdown/` contém o componente `Dropdown.js` que representa um menu suspenso, juntamente com os arquivos `index.js` e `Dropdown.css`.
+  - O diretório `Employee/` contém o componente `Employee.js` que representa um funcionário, juntamente com os arquivos `index.js` e `Employee.css`.
+  - O diretório `Footer/` contém o componente `Footer.js` que representa o rodapé da aplicação, juntamente com os arquivos `index.js` e `Footer.css`.
+  - O diretório `Form/` contém o componente `Form.js` que representa um formulário, juntamente com os arquivos `index.js` e `Form.css`.
+  - O diretório `Team/` contém o componente `Team.js` que representa uma equipe, juntamente com os arquivos `index.js` e `Team.css`.
+  - O diretório `TextField/` contém o componente `TextField.js` que representa um campo de texto, juntamente com os arquivos `index.js` e `TextField.css`.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- O arquivo `.gitignore` especifica os arquivos e diretórios que devem ser ignorados pelo Git ao controlar versões do projeto.
+- O arquivo `package.json` contém as dependências e scripts do projeto.
+- O arquivo `package-lock.json` é gerado automaticamente pelo npm para travar as versões exatas das dependências instaladas.
 
-### Deployment
+## Contribuição
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Este é um projeto desenvolvido como parte de um curso da Alura e, portanto, não é aberto para contribuições externas no momento. No entanto, sinta-se à vontade para fazer um fork deste repositório e personalizá-lo conforme suas necessidades.
 
-### `npm run build` fails to minify
+Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma [issue](https://github.com/seu-usuario/nome-do-repositorio/issues) neste repositório.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Aproveite o projeto! Se tiver alguma dúvida, não hesite em entrar em contato.
