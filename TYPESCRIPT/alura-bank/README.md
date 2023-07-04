@@ -140,6 +140,6 @@ A estrutura básica do projeto é a seguinte:
 
 Este é um projeto desenvolvido como parte de um curso da Alura e, portanto, não é aberto para contribuições externas no momento. No entanto, sinta-se à vontade para fazer um fork deste repositório e personalizá-lo conforme suas necessidades.
 
-Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma [issue](https://github.com/seu-usuario/nome-do-repositorio/issues) neste repositório.
+Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma [issue](https://github.com/makenrosa/alura-bank/issues) neste repositório.
 
 Aproveite o projeto! Se tiver alguma dúvida, não hesite em entrar em contato.

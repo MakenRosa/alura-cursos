@@ -14,7 +14,9 @@ Siga as etapas abaixo para clonar este repositório e executar o projeto em sua 
 
 4. Execute o seguinte comando para clonar o repositório:
 
-```git clone https://github.com/makenrosa/alura-barbershop.git```
+```bash
+git clone https://github.com/makenrosa/alura-barbershop.git
+```
 
 5. Após o término do processo de clonagem, você terá uma cópia local do repositório em seu computador.
 

@@ -20,7 +20,9 @@ Siga as etapas abaixo para clonar este repositório e executar o projeto em sua 
 
 4. Execute o seguinte comando para clonar o repositório:
 
-```git clone https://github.com/seu-usuario/nome-do-repositorio.git```
+```bash
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```
 
 5. Após o término do processo de clonagem, você terá uma cópia local do repositório em seu computador.
 
@@ -36,11 +38,15 @@ Para executar o projeto React, siga as etapas abaixo:
 
 4. Execute o seguinte comando para instalar as dependências do projeto:
 
-```npm install```
+```bash
+npm install
+```
 
 5. Após a instalação das dependências, execute o seguinte comando para iniciar o servidor de desenvolvimento:
 
-```npm start```
+```bash
+npm start
+```
 
 6. O servidor de desenvolvimento será iniciado e você poderá visualizar o projeto em execução no endereço `http://localhost:3000`.
 
@@ -127,6 +133,6 @@ A estrutura básica do projeto é a seguinte:
 
 Este é um projeto desenvolvido como parte de um curso da Alura e, portanto, não é aberto para contribuições externas no momento. No entanto, sinta-se à vontade para fazer um fork deste repositório e personalizá-lo conforme suas necessidades.
 
-Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma [issue](https://github.com/makenrosa/alura-organo-ts/issues) neste repositório.
+Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma [issue](https://github.com/makenrosa/alura-smart-bank/issues) neste repositório.
 
 Aproveite o projeto! Se tiver alguma dúvida, não hesite em entrar em contato.
