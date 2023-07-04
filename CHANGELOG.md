@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/MakenRosa/alura-cursos/compare/v1.4.0...v1.4.1) (2023-07-04)
+
+
+### Bug Fixes
+
+* **react:** fixed smart-bank dependecy versions ([5e722e7](https://github.com/MakenRosa/alura-cursos/commit/5e722e7f9415ea7a643053033e254786321a7e8d))
+
 # [1.4.0](https://github.com/MakenRosa/alura-cursos/compare/v1.3.0...v1.4.0) (2023-07-04)
 
 
