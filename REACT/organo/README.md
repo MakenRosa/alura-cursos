@@ -8,6 +8,8 @@ Este é um projeto desenvolvido durante o curso "React" da Alura, no qual foram 
 - Prototipagem de uma aplicação do zero até o deploy.
 - Garantia de uma experiência completa no desenvolvimento com React.
 
+**[Acesse aqui o Alura-Organo pelo Vercel](https://alura-organo-rho.vercel.app/)**
+
 ## Como clonar o repositório
 
 Siga as etapas abaixo para clonar este repositório e executar o projeto em sua máquina local:

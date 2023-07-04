@@ -10,6 +10,8 @@ Este é um projeto desenvolvido durante o curso "React" da Alura. No curso, fora
 - Aprender a consumir APIs para obter e exibir dados dinamicamente na aplicação.
 - Realizar o deploy do projeto na plataforma de hospedagem Vercel.
 
+**[Acesse aqui o Alura-Cinetag pelo Vercel](https://alura-cinetag-theta.vercel.app/)**
+
 ## Como clonar o repositório
 
 Siga as etapas abaixo para clonar este repositório e executar o projeto em sua máquina local:

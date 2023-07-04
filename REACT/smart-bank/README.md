@@ -8,6 +8,8 @@ Este é um projeto desenvolvido durante o curso "React com Styled Components" da
 - Aproveitamento da herança dentro dos componentes para uma organização eficiente do projeto.
 - Benefícios de um código bem estruturado e modularizado.
 
+**[Acesse aqui o Alura-Smart-Bank pelo Vercel](https://alura-smart-bank-tau.vercel.app/)**
+
 ## Como clonar o repositório
 
 Siga as etapas abaixo para clonar este repositório e executar o projeto em sua máquina local:

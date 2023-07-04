@@ -10,6 +10,8 @@ Este é um projeto desenvolvido durante o curso "TypeScript" da Alura. Neste cur
 - Criação de um mini framework de atualização de view inspirado no JSX.
 - Configurações avançadas do compilador para maximizar a eficiência do código.
 
+**[Acesse aqui o Alura-Bank pelo Vercel](https://alura-bank.vercel.app/)**
+
 ## Como clonar o repositório
 
 Siga as etapas abaixo para clonar este repositório e executar o projeto em sua máquina local:
