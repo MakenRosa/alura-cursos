@@ -112,12 +112,12 @@ form label, form p {
 
 footer {
     text-align: center;
-    background: url("../bg.jpg");
+    background: url("../images/bg.jpg");
     padding: 40px 0;
 }
 
 .copyright {
-    color: #FFF;
+    color: #ffffff;
     font-size: 14px;
     margin: 20px 0 0;
 }

@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/MakenRosa/alura-cursos/compare/v1.3.0...v1.4.0) (2023-07-04)
+
+
+### Features
+
+* **html5-css3/react/typescript:** updated all submodules readmes ([83e47e7](https://github.com/MakenRosa/alura-cursos/commit/83e47e71ebd9e9fba525b8175a3e0702d11c5570))
+
 # [1.3.0](https://github.com/MakenRosa/alura-cursos/compare/v1.2.2...v1.3.0) (2023-07-03)
 
 
