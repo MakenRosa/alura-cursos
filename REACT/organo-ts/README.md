@@ -1,70 +1,122 @@
-# Getting Started with Create React App
+# Organo-TS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este é um projeto desenvolvido durante o curso "React com TypeScript" da Alura, que é a continuação do curso anterior "React". Neste curso, foi abordado o uso do TypeScript em conjunto com o React, permitindo explorar as principais diferenças entre TypeScript (TS) e JavaScript (JS), bem como as vantagens de utilizar o TypeScript em aplicações React. Além disso, os tópicos abordados incluem:
 
-## Available Scripts
+- Integração de componentes React com TypeScript.
+- Utilização do IntelliSense do VSCode para obter sugestões de código e melhorar a produtividade.
+- Prototipação de um plano de migração de um projeto JavaScript existente para TypeScript.
 
-In the project directory, you can run:
+## Como clonar o repositório
 
-### `npm start`
+Siga as etapas abaixo para clonar este repositório e executar o projeto em sua máquina local:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Certifique-se de ter o Git instalado em sua máquina. Você pode fazer o download e instalar o Git a partir do [site oficial do Git](https://git-scm.com/).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. Abra o terminal ou prompt de comando.
 
-### `npm test`
+3. Navegue até o diretório onde deseja clonar o repositório.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+4. Execute o seguinte comando para clonar o repositório:
 
-### `npm run build`
+```git clone https://github.com/makenrosa/alura-organo-ts.git```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+5. Após o término do processo de clonagem, você terá uma cópia local do repositório em seu computador.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Executando o projeto
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Para executar o projeto React, siga as etapas abaixo:
 
-### `npm run eject`
+1. Navegue até o diretório onde você clonou o repositório.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2. Abra o terminal ou prompt de comando.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. Certifique-se de ter o Node.js instalado em sua máquina. Você pode fazer o download e instalar o Node.js a partir do [site oficial do Node.js](https://nodejs.org/).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+4. Execute o seguinte comando para instalar as dependências do projeto:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```npm install```
 
-## Learn More
+5. Após a instalação das dependências, execute o seguinte comando para iniciar o servidor de desenvolvimento:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```npm start```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+6. O servidor de desenvolvimento será iniciado e você poderá visualizar o projeto em execução no endereço `http://localhost:3000`.
 
-### Code Splitting
+## Estrutura do projeto
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+A estrutura básica do projeto é a seguinte:
 
-### Analyzing the Bundle Size
+```Organo/
+├── public/
+│   ├── index.html
+│   ├── favicon.ico
+│   └── images/
+│        ├─ banner.png
+│        ├─ fb.png
+│        ├─ ig.png
+│        ├─ tw.png
+│        ├─ fundo.png
+│        └─ logo.png
+├── src/
+│   ├── index.tsx
+│   ├── index.css
+│   ├── App.tsx
+|   ├── shared/
+│   │    └── interface/
+│   │         └── IEmployee.ts
+│   └── components/
+│        ├── Banner/
+│        │    ├── index.ts
+│        │    ├── Banner.tsx
+│        │    └── Banner.css
+│        ├── Button/
+│        │    ├── index.ts
+│        │    ├── Button.tsx
+│        │    └── Button.css
+│        ├── Dropdown/
+│        │    ├── index.ts
+│        │    ├── Dropdown.tsx
+│        │    └── Dropdown.css
+│        ├── Employee/
+│        │    ├── index.ts
+│        │    ├── Employee.tsx
+│        │    └── Employee.css
+│        ├── Footer/
+│        │    ├── index.ts
+│        │    ├── Footer.tsx
+│        │    └── Footer.css
+│        ├── Form/
+│        │    ├── index.ts
+│        │    ├── Form.tsx
+│        │    └── Form.css
+│        ├── Team/
+│        │    ├── index.ts
+│        │    ├── Team.tsx
+│        │    └── Team.css
+│        └── TextField/
+│             ├── index.ts
+│             ├── TextField.tsx
+│             └── TextField.css
+├── .gitignore
+├── package.json
+├── package-lock.json
+└── tsconfig.json
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+- O diretório `public/` contém o arquivo `index.html` que serve como ponto de entrada para a aplicação. Também inclui outros arquivos estáticos, como `favicon.ico` e o diretório `images/` que contém as imagens utilizadas no projeto.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- O diretório `src/` contém o código-fonte principal do projeto.
+  - O arquivo `index.tsx` é o ponto de entrada da aplicação, onde o React é inicializado e o componente `App` é renderizado.
+  - O arquivo `index.css` contém estilos globais aplicados em toda a aplicação.
+  - O arquivo `App.tsx` é o componente raiz da aplicação, onde os componentes e rotas são definidos.
+  - O diretório `shared/` contém arquivos compartilhados, como interfaces, neste caso, o arquivo `IEmployee.ts`.
+  - O diretório `components/` contém os componentes reutilizáveis da aplicação, como `Banner`, `Button`, `Dropdown`, `Employee`, `Footer`, `Form`, `Team` e `TextField`, juntamente com seus arquivos de estilo.
 
-### Advanced Configuration
+## Contribuição
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Este é um projeto desenvolvido como parte de um curso da Alura e, portanto, não é aberto para contribuições externas no momento. No entanto, sinta-se à vontade para fazer um fork deste repositório e personalizá-lo conforme suas necessidades.
 
-### Deployment
+Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma [issue](https://github.com/seu-usuario/nome-do-repositorio/issues) neste repositório.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Aproveite o projeto! Se tiver alguma dúvida, não hesite em entrar em contato.
