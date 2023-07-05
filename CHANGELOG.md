@@ -1,3 +1,11 @@
+# [1.5.0](https://github.com/MakenRosa/alura-cursos/compare/v1.4.1...v1.5.0) (2023-07-05)
+
+
+### Features
+
+* **react:** cloned base repository of bytebank project ([421e6d7](https://github.com/MakenRosa/alura-cursos/commit/421e6d797ded31df3a11bf988d1e050032d402a4))
+* **react:** finalized bytebank tests project ([4d91586](https://github.com/MakenRosa/alura-cursos/commit/4d915867f1c7991130dfb5798664a6af12b6edb1))
+
 ## [1.4.1](https://github.com/MakenRosa/alura-cursos/compare/v1.4.0...v1.4.1) (2023-07-04)
 
 
