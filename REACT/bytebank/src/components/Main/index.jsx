@@ -1,4 +1,3 @@
-import React from 'react';
 import styles from './Main.module.css';
 import { ReactComponent as Illustration } from './illustration.svg';
 import Balance from './Balance';
@@ -24,7 +23,11 @@ export default function Main({ balance }) {
         daysOfWeek[today.getDay()]
       }, ${today.toLocaleDateString('en-US')}`}</p>
       <div className={styles.wrapper}>
-        <Illustration className={styles.illustration} width="230" height="185" />
+        <Illustration
+          className={styles.illustration}
+          width="230"
+          height="185"
+        />
         <Balance balance={balance} />
       </div>
       <div className={styles.bottom__detail} />

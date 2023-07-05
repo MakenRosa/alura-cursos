@@ -1,6 +1,6 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import styles from './App.module.css';
-import { calculateNewbalance } from './utils';
+import { calculateNewBalance } from './utils';
 
 import Header from './components/Header';
 import Statement from './components/Statement';
@@ -13,7 +13,7 @@ export default function App() {
   const [transactions, setTransactions] = useState([]);
 
   function performTransaction(values) {
-    const newBalance = calculateNewbalance(values, balance);
+    const newBalance = calculateNewBalance(values, balance);
     setBalance(newBalance);
     setTransactions([...transactions, values]);
   }
@@ -32,4 +32,3 @@ export default function App() {
     </>
   );
 }
-

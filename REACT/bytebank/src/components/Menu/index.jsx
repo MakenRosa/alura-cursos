@@ -1,12 +1,6 @@
-import React from 'react';
 import styles from './Menu.module.css';
 
-const menuOptions = [
-  'Home',
-  'Transfers',
-  'Investiments',
-  'Other services',
-];
+const menuOptions = ['Home', 'Transfers', 'Investiments', 'Other services'];
 
 export default function Menu() {
   return (
