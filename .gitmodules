@@ -1,0 +1,21 @@
+[submodule "HTML5-CSS3/alura-barbershop"]
+	path = HTML5-CSS3/alura-barbershop
+	url = https://github.com/makenrosa/alura-barbershop
+[submodule "REACT/bytebank"]
+	path = REACT/bytebank
+	url = https://github.com/makenrosa/alura-bytebank
+[submodule "REACT/cinetag"]
+	path = REACT/cinetag
+	url = https://github.com/makenrosa/alura-cinetag
+[submodule "REACT/organo"]
+	path = REACT/organo
+	url = https://github.com/makenrosa/alura-organo
+[submodule "REACT/organo-ts"]
+	path = REACT/organo-ts
+	url = https://github.com/makenrosa/alura-organo-ts
+[submodule "REACT/smart-bank"]
+	path = REACT/smart-bank
+	url = https://github.com/makenrosa/alura-smart-bank
+[submodule "TYPESCRIPT/alura-bank"]
+	path = TYPESCRIPT/alura-bank
+	url = https://github.com/makenrosa/alura-bank
