@@ -1,21 +1,21 @@
-[submodule "HTML5-CSS3/alura-barbershop"]
-	path = HTML5-CSS3/alura-barbershop
-	url = https://github.com/makenrosa/alura-barbershop
-[submodule "REACT/bytebank"]
-	path = REACT/bytebank
-	url = https://github.com/makenrosa/alura-bytebank
-[submodule "REACT/cinetag"]
-	path = REACT/cinetag
-	url = https://github.com/makenrosa/alura-cinetag
-[submodule "REACT/organo"]
-	path = REACT/organo
-	url = https://github.com/makenrosa/alura-organo
-[submodule "REACT/organo-ts"]
-	path = REACT/organo-ts
-	url = https://github.com/makenrosa/alura-organo-ts
-[submodule "REACT/smart-bank"]
-	path = REACT/smart-bank
-	url = https://github.com/makenrosa/alura-smart-bank
-[submodule "TYPESCRIPT/alura-bank"]
-	path = TYPESCRIPT/alura-bank
-	url = https://github.com/makenrosa/alura-bank
+[submodule "html5-css3/alura-barbershop"]
+	path = html5-css3/alura-barbershop
+	url = https://github.com/makenrosa/alura-barbershop.git
+[submodule "react/alura-bytebank"]
+	path = react/alura-bytebank
+	url = https://github.com/makenrosa/alura-bytebank.git
+[submodule "react/alura-smart-bank"]
+	path = react/alura-smart-bank
+	url = https://github.com/makenrosa/alura-smart-bank.git
+[submodule "react/alura-cinetag"]
+	path = react/alura-cinetag
+	url = https://github.com/makenrosa/alura-cinetag.git
+[submodule "react/alura-organo"]
+	path = react/alura-organo
+	url = https://github.com/makenrosa/alura-organo.git
+[submodule "react/alura-organo-ts"]
+	path = react/alura-organo-ts
+	url = https://github.com/makenrosa/alura-organo-ts.git
+[submodule "typescript/alura-bank"]
+	path = typescript/alura-bank
+	url = https://github.com/makenrosa/alura-bank.git
