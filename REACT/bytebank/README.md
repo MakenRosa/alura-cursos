@@ -1,70 +1,128 @@
-# Getting Started with Create React App
+# Bytebank
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este é um projeto desenvolvido durante o curso "React JS: Crie testes com Jest e Testing Library e garanta o funcionamento do Front-end" da Alura. Neste curso, foi abordada a importância dos testes no desenvolvimento de aplicações Front-end utilizando as ferramentas Jest e React Testing Library. Alguns dos tópicos abordados incluem:
 
-## Available Scripts
+- Compreensão da importância dos testes no desenvolvimento de aplicações Front-end.
+- Utilização das ferramentas Jest e React Testing Library para escrever testes automatizados em aplicações React.
+- Simulação de funções e comportamentos do usuário nos testes.
+- Proteção da aplicação em produção contra possíveis bugs por meio de testes automatizados.
+- Garantia da qualidade do código por meio de testes.
 
-In the project directory, you can run:
+**[Acesse aqui o Alura-Bytebank pelo Vercel](https://alura-bytebank.vercel.app/)**
 
-### `npm start`
+## Como clonar o repositório
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Siga as etapas abaixo para clonar este repositório e executar o projeto em sua máquina local:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Certifique-se de ter o Git instalado em sua máquina. Você pode fazer o download e instalar o Git a partir do [site oficial do Git](https://git-scm.com/).
 
-### `npm test`
+2. Abra o terminal ou prompt de comando.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. Navegue até o diretório onde deseja clonar o repositório.
 
-### `npm run build`
+4. Execute o seguinte comando para clonar o repositório:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+git clone https://github.com/makenrosa/alura-bytebank.git
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+5. Após o término do processo de clonagem, você terá uma cópia local do repositório em seu computador.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Executando os testes
 
-### `npm run eject`
+Para executar os testes automatizados, siga as etapas abaixo:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Navegue até o diretório onde você clonou o repositório.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. Abra o terminal ou prompt de comando.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3. Certifique-se de ter o Node.js instalado em sua máquina. Você pode fazer o download e instalar o Node.js a partir do [site oficial do Node.js](https://nodejs.org/).
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4. Execute o seguinte comando para instalar as dependências do projeto:
 
-## Learn More
+```bash
+npm install
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+5. Execute o seguinte comando para executar os testes:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+npm run test
+```
 
-### Code Splitting
+6. Os testes serão executados e você verá os resultados no terminal ou prompt de comando.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Estrutura do projeto
 
-### Analyzing the Bundle Size
+A estrutura básica do projeto é a seguinte:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```Bytebank/
+├── public/
+│   ├── index.html
+|   ├── favicon-48.ico
+│   └── robots.txt
+├── src/
+│   ├── components/
+│   │   ├── Header/
+|   |   |   ├── avatar.svg
+|   |   |   ├── bytebank.svg
+│   │   │   ├── index.jsx
+|   |   |   ├── Header.module.css
+│   │   │   └── Header.test.js
+│   │   ├── Main
+│   │   │   ├── Balance/
+│   │   │   │   ├── index.jsx
+│   │   │   │   ├── eye-icon.svg
+│   │   │   │   ├── Balance.module.css
+│   │   │   │   └── Balance.test.js
+│   │   │   ├── bot-detail.svg
+│   │   │   ├── top-detail.svg
+│   │   │   ├── illustration.svg
+│   │   │   ├── index.jsx
+│   │   │   └── Main.module.css
+│   │   ├── Menu/
+│   │   │   ├── __snapshots__/
+│   │   │   │   └── Menu.test.js.snap
+│   │   │   ├── index.jsx
+│   │   │   ├── Menu.module.css
+│   │   │   └── Menu.test.js
+│   │   ├── Statement/
+│   │   │   ├── Transactions/
+│   │   │   │   ├── index.jsx
+│   │   │   │   └── Transactions.test.js
+│   │   │   ├── index.jsx
+│   │   │   ├── Statement.module.css
+│   │   │   └── Statement.test.js
+│   │   └── Transaction/
+│   │       ├── Form/
+│   │       │   ├── index.jsx
+│   │       │   ├── Form.module.css
+│   │       │   └── Form.test.js
+│   │       ├── bot-detail.svg
+│   │       ├── top-detail.svg
+│   │       ├── illustration.svg
+│   │       ├── index.jsx
+│   │       └── Transaction.module.css
+│   ├── utils/
+│   │   ├── index.js
+│   │   └── utils.test.js
+│   ├── App.js
+│   ├── App.module.css
+│   ├── index.js
+│   ├── index.css
+│   └── setupTests.js
+├── .eslintrc
+├── .gitignore
+├── .prettierrc
+├── jsconfig.json
+├── package.json
+└── package-lock.json
+```
 
-### Making a Progressive Web App
+## Contribuição
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Este é um projeto desenvolvido como parte de um curso da Alura e, portanto, não é aberto para contribuições externas no momento. No entanto, sinta-se à vontade para fazer um fork deste repositório e personalizá-lo conforme suas necessidades.
 
-### Advanced Configuration
+Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma [issue](https://github.com/makenrosa/alura-bytebank/issues) neste repositório.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Aproveite o projeto! Se tiver alguma dúvida, não hesite em entrar em contato.
