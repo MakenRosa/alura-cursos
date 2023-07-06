@@ -3,7 +3,7 @@
 Este repositório contém vários projetos relacionados a cursos da Alura. Cada projeto está localizado em uma pasta separada e possui seu próprio repositório no GitHub. Abaixo estão os projetos disponíveis:
 
 - HTML5-CSS3
-  - [Alura-Barbershop](https://github.com/MakenRosa/alura-barbershop): Curso de HTML5 e CSS3: Aprenda os fundamentos do desenvolvimento web, incluindo estrutura básica de arquivos HTML, estilização de elementos com CSS, criação de páginas web e manipulação de bordas e pseudo-classes CSS.
+  - [Alura-Barbershop](https://github.com/MakenRosa/alura-barbershop): No curso de HTML5 e CSS3, obtive conhecimentos essenciais para o desenvolvimento web. Aprendi os fundamentos da criação de páginas web, incluindo a estrutura básica dos arquivos HTML e a estilização dos elementos com CSS. Além disso, adquiri habilidades na manipulação de bordas e no uso de pseudo-classes CSS para adicionar interatividade e estilo às páginas. O curso me proporcionou uma base sólida para construir websites com uma aparência atraente e profissional.
 
 - REACT
   - [Cinetag](https://github.com/MakenRosa/alura-cinetag): No curso de React, adquiri conhecimentos abrangentes sobre o desenvolvimento de aplicações com essa biblioteca JavaScript. Aprendi a iniciar um projeto React, construir componentes e páginas, implementar rotas normais, dinâmicas e aninhadas, e utilizar os hooks useState, useParams, useEffect e useContext para gerenciar o estado e a lógica da aplicação. Além disso, explorei como funcionam os contextos no React, aprendi a consumir APIs e, ao final do curso, estava apto a realizar o deploy do projeto na plataforma de hospedagem Vercel.
