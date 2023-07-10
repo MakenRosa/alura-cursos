@@ -19,3 +19,6 @@
 [submodule "typescript/alura-bank"]
 	path = typescript/alura-bank
 	url = https://github.com/makenrosa/alura-bank.git
+[submodule "react/alura-aluroni"]
+	path = react/alura-aluroni
+	url = https://github.com/makenrosa/alura-aluroni
