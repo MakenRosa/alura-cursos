@@ -1,3 +1,11 @@
+# [1.6.0](https://github.com/MakenRosa/alura-cursos/compare/v1.5.0...v1.6.0) (2023-07-10)
+
+
+### Features
+
+* **react:** added alura-aluroni as submodule ([fb77be7](https://github.com/MakenRosa/alura-cursos/commit/fb77be7b22b237865017940cad56ca6f2ee03c54))
+* **react:** finalized aluroni static files course project ([32cd538](https://github.com/MakenRosa/alura-cursos/commit/32cd5383bc7c801d22a0cb22af47b9103ec55855))
+
 # [1.5.0](https://github.com/MakenRosa/alura-cursos/compare/v1.4.1...v1.5.0) (2023-07-05)
 
 
