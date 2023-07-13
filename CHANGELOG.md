@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/MakenRosa/alura-cursos/compare/v1.6.0...v1.7.0) (2023-07-13)
+
+
+### Features
+
+* **react:** finalized aluroni react router course ([feb8d91](https://github.com/MakenRosa/alura-cursos/commit/feb8d912287de04804ab13d0969dd02172cd7c8d))
+
 # [1.6.0](https://github.com/MakenRosa/alura-cursos/compare/v1.5.0...v1.6.0) (2023-07-10)
 
 
