@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/MakenRosa/alura-cursos/compare/v1.7.0...v1.8.0) (2023-07-14)
+
+
+### Features
+
+* **react:** finalized aluroni optimization course ([8cfdf36](https://github.com/MakenRosa/alura-cursos/commit/8cfdf3640c449b38a1a68326344b1b15bb42308f))
+
 # [1.7.0](https://github.com/MakenRosa/alura-cursos/compare/v1.6.0...v1.7.0) (2023-07-13)
 
 
