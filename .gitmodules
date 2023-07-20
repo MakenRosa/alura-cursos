@@ -22,3 +22,6 @@
 [submodule "react/alura-aluroni"]
 	path = react/alura-aluroni
 	url = https://github.com/makenrosa/alura-aluroni
+[submodule "java/alura-clinica"]
+	path = java/alura-clinica
+	url = https://github.com/MakenRosa/alura-clinica
