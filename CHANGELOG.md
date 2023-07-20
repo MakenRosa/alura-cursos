@@ -1,3 +1,11 @@
+# [1.9.0](https://github.com/MakenRosa/alura-cursos/compare/v1.8.0...v1.9.0) (2023-07-20)
+
+
+### Features
+
+* **react:** completed half of the course ([0c84e34](https://github.com/MakenRosa/alura-cursos/commit/0c84e34b6a5782e4f2c9a28c32a853aa40e8ff4c))
+* **react:** finalized contextAPI course ([cf8e3e1](https://github.com/MakenRosa/alura-cursos/commit/cf8e3e18c3b4c0795787f7c8aecc3655806651f5))
+
 # [1.8.0](https://github.com/MakenRosa/alura-cursos/compare/v1.7.0...v1.8.0) (2023-07-14)
 
 
