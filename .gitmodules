@@ -25,3 +25,6 @@
 [submodule "react/alura-feira"]
 	path = react/alura-feira
 	url = https://github.com/MakenRosa/alura-feira
+[submodule "html5-css3/alura-portfolio"]
+	path = html5-css3/alura-portfolio
+	url = https://github.com/MakenRosa/alura-portfolio
