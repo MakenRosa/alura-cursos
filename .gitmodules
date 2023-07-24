@@ -28,3 +28,6 @@
 [submodule "html5-css3/alura-portfolio"]
 	path = html5-css3/alura-portfolio
 	url = https://github.com/makenrosa/alura-portfoli.git
+[submodule "javascript/alura-midi"]
+	path = javascript/alura-midi
+	url = https://github.com/MakenRosa/alura-midi
