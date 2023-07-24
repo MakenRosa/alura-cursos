@@ -16,6 +16,8 @@ Veja abaixo a lista dos projetos disponíveis, classificados por tecnologia:
 
   - **[Alura-Barbershop](https://github.com/MakenRosa/alura-barbershop):** No curso de HTML5 e CSS3, adquiri habilidades essenciais para o desenvolvimento web, aprendendo os fundamentos da criação de páginas web com HTML e CSS. 
 
+  - **[Alura-Portfolio](https://github.com/MakenRosa/alura-barbershop):** Projeto desenvolvido durante os cursos de HTML e CSS da Alura, onde foram abordados temas como ambientes de desenvolvimento, estrutura de arquivos e tags, classes, posicionamento e Flexbox, cabeçalho, footer e variáveis CSS, além de trabalhar com responsividade e publicação de projetos. ▌
+
 ---
 
 ## REACT ⚛️
