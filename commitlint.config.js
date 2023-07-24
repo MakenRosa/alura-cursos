@@ -8,7 +8,8 @@ module.exports = {
           'core',
           'react',
           'typescript',
-          'html5-css3'
+          'html5-css3',
+          'javascript',
         ]
       ],
         'scope-case': [
