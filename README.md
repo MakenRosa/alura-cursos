@@ -20,6 +20,12 @@ Veja abaixo a lista dos projetos disponíveis, classificados por tecnologia:
 
 ---
 
+## JAVASCRIPT 🟨
+
+- **[Alura-Midi](https://github.com/MakenRosa/alura-midi):** No curso "JavaScript para Web: Crie páginas dinâmicas", adquiri uma compreensão mais profunda dos papéis de cada tecnologia da Web para construção de páginas, e como associar JavaScript com HTML através do DOM. Além disso, implementei funções com JavaScript e investiguei possíveis soluções para problemas de código. Também aprendi a selecionar operadores lógicos adequados para diferentes situações, resultando na produção de soluções simples para páginas dinâmicas.
+
+---
+
 ## REACT ⚛️
 
 - **[Cinetag](https://github.com/MakenRosa/alura-cinetag):** Projeto desenvolvido no curso de React, onde aprendi a construir aplicações com esta biblioteca JavaScript, desde a criação de componentes até a realização do deploy no Vercel.
