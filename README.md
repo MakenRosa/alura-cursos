@@ -6,9 +6,9 @@ Veja abaixo a lista dos projetos disponíveis, classificados por tecnologia:
 
 ## Conteúdo
 
-- [HTML5-CSS3](#html5-css3)
-- [REACT](#react)
-- [TYPESCRIPT](#typescript)
+- [HTML5-CSS3]
+- [REACT]
+- [TYPESCRIPT]
 
 ---
 
