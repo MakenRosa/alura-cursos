@@ -24,10 +24,13 @@
 	url = https://github.com/makenrosa/alura-aluroni.git
 [submodule "react/alura-feira"]
 	path = react/alura-feira
-	url = https://github.com/MakenRosa/alura-feira.git
+	url = https://github.com/makenrosa/alura-feira
 [submodule "html5-css3/alura-portfolio"]
 	path = html5-css3/alura-portfolio
-	url = https://github.com/makenrosa/alura-portfolio.git
+	url = https://github.com/makenrosa/alura-portfolio
 [submodule "javascript/alura-midi"]
 	path = javascript/alura-midi
-	url = https://github.com/makenrosa/alura-midi.git
+	url = https://github.com/makenrosa/alura-midi
+[submodule "html5-css3/alura-feira"]
+	path = html5-css3/alura-feira
+	url = https://github.com/makenrosa/alura-feira
