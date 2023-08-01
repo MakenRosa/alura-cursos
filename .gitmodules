@@ -34,3 +34,6 @@
 [submodule "html5-css3/alura-feira"]
 	path = html5-css3/alura-feira
 	url = https://github.com/makenrosa/alura-feira
+[submodule "python/python-data-science-1"]
+	path = python/python-data-science-1
+	url = https://github.com/MakenRosa/python-data-science-1

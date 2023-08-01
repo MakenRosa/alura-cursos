@@ -10,6 +10,7 @@ module.exports = {
           'typescript',
           'html5-css3',
           'javascript',
+          'python',
         ]
       ],
         'scope-case': [
