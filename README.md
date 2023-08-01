@@ -7,6 +7,8 @@ Veja abaixo a lista dos projetos disponíveis, classificados por tecnologia:
 ## Conteúdo
 
 - [HTML5-CSS3](#html5-css3)
+- [JAVASCRIPT](#javascript)
+- [PYTHON](#python)
 - [REACT](#react)
 - [TYPESCRIPT](#typescript)
 
@@ -23,6 +25,12 @@ Veja abaixo a lista dos projetos disponíveis, classificados por tecnologia:
 ## JAVASCRIPT 🟨
 
 - **[Alura-Midi](https://github.com/MakenRosa/alura-midi):** No curso "JavaScript para Web: Crie páginas dinâmicas", adquiri uma compreensão mais profunda dos papéis de cada tecnologia da Web para construção de páginas, e como associar JavaScript com HTML através do DOM. Além disso, implementei funções com JavaScript e investiguei possíveis soluções para problemas de código. Também aprendi a selecionar operadores lógicos adequados para diferentes situações, resultando na produção de soluções simples para páginas dinâmicas.
+
+---
+
+## PYTHON 🐍
+
+- **[Python Data Science 1](https://github.com/MakenRosa/python-data-science-1):** Projeto desenvolvido durante o curso "Python para Data Science: primeiros passos" da Alura, que contou com 10h de duração e foi concluído com sucesso. Neste curso, aprendi os comandos básicos da linguagem Python, manipulei diferentes tipos de dados, compreendi estruturas condicionais e de repetição, e trabalhei com estruturas de dados. Fizemos um profundo mergulho no Python com foco em Data Science, abordando desde os conceitos mais básicos da linguagem até a construção de projetos.
 
 ---
 
