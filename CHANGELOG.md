@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/MakenRosa/alura-cursos/compare/v1.9.0...v1.10.0) (2023-08-01)
+
+
+### Features
+
+* **chore/python:** add and finalize first python data-science course ([d2403d1](https://github.com/MakenRosa/alura-cursos/commit/d2403d19f6a52cc4ae3ba20fd57983bf2b9d302c))
+
 # [1.9.0](https://github.com/MakenRosa/alura-cursos/compare/v1.8.0...v1.9.0) (2023-07-20)
 
 
