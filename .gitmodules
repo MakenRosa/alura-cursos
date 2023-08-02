@@ -37,3 +37,6 @@
 [submodule "python/python-data-science-1"]
 	path = python/python-data-science-1
 	url = https://github.com/MakenRosa/python-data-science-1
+[submodule "dart/dart-oo"]
+	path = dart/dart-oo
+	url = https://github.com/makenrosa/dart-oo
