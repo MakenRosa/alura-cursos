@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/MakenRosa/alura-cursos/compare/v1.10.0...v1.11.0) (2023-08-02)
+
+
+### Features
+
+* **python:** finalize alura plus about sets ([389d6a9](https://github.com/MakenRosa/alura-cursos/commit/389d6a90ad735015f2faeae574a66e8d3fa5d386))
+
 # [1.10.0](https://github.com/MakenRosa/alura-cursos/compare/v1.9.0...v1.10.0) (2023-08-01)
 
 
