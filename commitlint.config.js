@@ -11,6 +11,7 @@ module.exports = {
           'html5-css3',
           'javascript',
           'python',
+          'dart',
         ]
       ],
         'scope-case': [
