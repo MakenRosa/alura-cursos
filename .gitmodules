@@ -1,39 +1,39 @@
-[submodule "html5-css3/alura-barbershop"]
-	path = html5-css3/alura-barbershop
-	url = https://github.com/makenrosa/alura-barbershop.git
-[submodule "react/alura-bytebank"]
-	path = react/alura-bytebank
-	url = https://github.com/makenrosa/alura-bytebank.git
-[submodule "react/alura-smart-bank"]
-	path = react/alura-smart-bank
-	url = https://github.com/makenrosa/alura-smart-bank.git
-[submodule "react/alura-cinetag"]
-	path = react/alura-cinetag
-	url = https://github.com/makenrosa/alura-cinetag.git
-[submodule "react/alura-organo"]
-	path = react/alura-organo
-	url = https://github.com/makenrosa/alura-organo.git
-[submodule "react/alura-organo-ts"]
-	path = react/alura-organo-ts
-	url = https://github.com/makenrosa/alura-organo-ts.git
-[submodule "typescript/alura-bank"]
-	path = typescript/alura-bank
-	url = https://github.com/makenrosa/alura-bank.git
-[submodule "react/alura-aluroni"]
-	path = react/alura-aluroni
-	url = https://github.com/makenrosa/alura-aluroni.git
-[submodule "react/alura-feira"]
-	path = react/alura-feira
-	url = https://github.com/makenrosa/alura-feira
-[submodule "html5-css3/alura-portfolio"]
-	path = html5-css3/alura-portfolio
-	url = https://github.com/makenrosa/alura-portfolio
-[submodule "javascript/alura-midi"]
-	path = javascript/alura-midi
-	url = https://github.com/makenrosa/alura-midi
-[submodule "html5-css3/alura-feira"]
-	path = html5-css3/alura-feira
-	url = https://github.com/makenrosa/alura-feira
-[submodule "python/python-data-science-1"]
-	path = python/python-data-science-1
-	url = https://github.com/MakenRosa/python-data-science-1
+[submodule "html5-css3/barbershop"]
+	path = html5-css3/barbershop
+	url = https://github.com/makenrosa/barbershop.git
+[submodule "react/bytebank"]
+	path = react/bytebank
+	url = https://github.com/makenrosa/bytebank.git
+[submodule "react/smart-bank"]
+	path = react/smart-bank
+	url = https://github.com/makenrosa/smart-bank.git
+[submodule "react/cinetag"]
+	path = react/cinetag
+	url = https://github.com/makenrosa/cinetag.git
+[submodule "react/organo"]
+	path = react/organo
+	url = https://github.com/makenrosa/organo.git
+[submodule "react/organo-ts"]
+	path = react/organo-ts
+	url = https://github.com/makenrosa/organo-ts.git
+[submodule "typescript/bank"]
+	path = typescript/bank
+	url = https://github.com/makenrosa/bank.git
+[submodule "react/aluroni"]
+	path = react/aluroni
+	url = https://github.com/makenrosa/aluroni.git
+[submodule "react/feira"]
+	path = react/feira
+	url = https://github.com/makenrosa/feira
+[submodule "html5-css3/portfolio"]
+	path = html5-css3/portfolio
+	url = https://github.com/makenrosa/portfolio
+[submodule "javascript/midi"]
+	path = javascript/midi
+	url = https://github.com/makenrosa/midi
+[submodule "html5-css3/feira"]
+	path = html5-css3/feira
+	url = https://github.com/makenrosa/feira
+[submodule "python/data-science-1"]
+	path = python/data-science-1
+	url = https://github.com/MakenRosa/data-science-1
