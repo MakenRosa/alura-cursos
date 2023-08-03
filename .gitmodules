@@ -31,9 +31,6 @@
 [submodule "javascript/midi"]
 	path = javascript/midi
 	url = https://github.com/makenrosa/midi.git
-[submodule "html5-css3/feira"]
-	path = html5-css3/feira
-	url = https://github.com/makenrosa/feira.git
 [submodule "python/data-science-1"]
 	path = python/data-science-1
 	url = https://github.com/MakenRosa/data-science-1.git
