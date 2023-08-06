@@ -6,11 +6,12 @@ module.exports = {
         'always',
         [
           'core',
-          'react',
-          'typescript',
+          'dart',
           'html5-css3',
           'javascript',
           'python',
+          'react',
+          'typescript',
           'dart',
         ]
       ],
