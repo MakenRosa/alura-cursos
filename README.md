@@ -6,6 +6,7 @@ Veja abaixo a lista dos projetos disponíveis, classificados por tecnologia:
 
 ## Conteúdo
 
+- [DART](#dart)
 - [HTML5-CSS3](#html5-css3)
 - [JAVASCRIPT](#javascript)
 - [PYTHON](#python)
