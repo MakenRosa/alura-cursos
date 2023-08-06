@@ -12,7 +12,6 @@ module.exports = {
           'python',
           'react',
           'typescript',
-          'dart',
         ]
       ],
         'scope-case': [
