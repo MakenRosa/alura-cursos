@@ -1,3 +1,11 @@
+# [1.12.0](https://github.com/MakenRosa/alura-cursos/compare/v1.11.0...v1.12.0) (2023-08-03)
+
+
+### Features
+
+* **core/html5-css3/javascript/python/react/typescript/dart:** update submodule pattern ([cbbdc20](https://github.com/MakenRosa/alura-cursos/commit/cbbdc20c826bed3e52570775ce063ef7abfbc3f9))
+* **core/html5-css3/javascript/react/typescript:** update all project names ([bf50a69](https://github.com/MakenRosa/alura-cursos/commit/bf50a6902a0671609939e6a857b55fd4fbcedc4e))
+
 # [1.11.0](https://github.com/MakenRosa/alura-cursos/compare/v1.10.0...v1.11.0) (2023-08-02)
 
 
