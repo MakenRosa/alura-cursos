@@ -57,6 +57,8 @@ Veja abaixo a lista dos projetos disponíveis, classificados por tecnologia:
 
 - **[Feira](https://github.com/MakenRosa/feira):** No curso "React: gerenciamento de estados globais com ContextAPI", aprendi a criar e gerenciar estados globais, contribuindo para melhorar a limpeza do código e a performance da aplicação.
 
+- **[Mkn-books-ds](https://github.com/MakenRosa/mkn-books-ds):** Projeto do curso "React: desenvolvendo uma biblioteca de componentes" da Alura. Nele, foi criada uma biblioteca de componentes, produzido um pacote NPM com TSDX, e explorada a publicação de componentes com uma estratégia específica. Também foi dado enfoque em styled components e versionamento com auto e GitHub Actions.
+
 ---
 
 ### TYPESCRIPT 💻
