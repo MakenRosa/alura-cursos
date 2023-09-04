@@ -37,3 +37,9 @@
 [submodule "dart/dart-oo"]
 	path = dart/dart-oo
 	url = https://github.com/MakenRosa/dart-oo.git
+[submodule "react/mkn-books-ds"]
+	path = react/mkn-books-ds
+	url = https://github.com/makenrosa/mkn-books-ds
+[submodule "javascript/pong"]
+	path = javascript/pong
+	url = https://github.com/makenrosa/pong

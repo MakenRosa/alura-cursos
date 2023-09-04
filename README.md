@@ -6,6 +6,7 @@ Veja abaixo a lista dos projetos disponíveis, classificados por tecnologia:
 
 ## Conteúdo
 
+- [DART](#dart)
 - [HTML5-CSS3](#html5-css3)
 - [JAVASCRIPT](#javascript)
 - [PYTHON](#python)
@@ -14,7 +15,13 @@ Veja abaixo a lista dos projetos disponíveis, classificados por tecnologia:
 
 ---
 
-## HTML5-CSS3 🌐
+### DART 🎯
+
+- **[Dart - OO](https://github.com/MakenRosa/dart-oo):** Durante o curso, explorei profundamente a Orientação a Objetos na linguagem Dart, abrangendo desde a criação de objetos complexos até conceitos avançados como herança, polimorfismo e classes abstratas.
+
+---
+
+### HTML5-CSS3 🌐
 
   - **[Barbershop](https://github.com/MakenRosa/barbershop):** No curso de HTML5 e CSS3, adquiri habilidades essenciais para o desenvolvimento web, aprendendo os fundamentos da criação de páginas web com HTML e CSS. 
 
@@ -22,19 +29,19 @@ Veja abaixo a lista dos projetos disponíveis, classificados por tecnologia:
 
 ---
 
-## JAVASCRIPT 🟨
+### JAVASCRIPT 🟨
 
 - **[Midi](https://github.com/MakenRosa/midi):** No curso "JavaScript para Web: Crie páginas dinâmicas", adquiri uma compreensão mais profunda dos papéis de cada tecnologia da Web para construção de páginas, e como associar JavaScript com HTML através do DOM. Além disso, implementei funções com JavaScript e investiguei possíveis soluções para problemas de código. Também aprendi a selecionar operadores lógicos adequados para diferentes situações, resultando na produção de soluções simples para páginas dinâmicas.
 
 ---
 
-## PYTHON 🐍
+### PYTHON 🐍
 
 - **[Data Science 1](https://github.com/MakenRosa/data-science-1):** Projeto desenvolvido durante o curso "Python para Data Science: primeiros passos" da Alura, que contou com 10h de duração e foi concluído com sucesso. Neste curso, aprendi os comandos básicos da linguagem Python, manipulei diferentes tipos de dados, compreendi estruturas condicionais e de repetição, e trabalhei com estruturas de dados. Fizemos um profundo mergulho no Python com foco em Data Science, abordando desde os conceitos mais básicos da linguagem até a construção de projetos.
 
 ---
 
-## REACT ⚛️
+### REACT ⚛️
 
 - **[Cinetag](https://github.com/MakenRosa/cinetag):** Projeto desenvolvido no curso de React, onde aprendi a construir aplicações com esta biblioteca JavaScript, desde a criação de componentes até a realização do deploy no Vercel.
 
@@ -50,9 +57,11 @@ Veja abaixo a lista dos projetos disponíveis, classificados por tecnologia:
 
 - **[Feira](https://github.com/MakenRosa/feira):** No curso "React: gerenciamento de estados globais com ContextAPI", aprendi a criar e gerenciar estados globais, contribuindo para melhorar a limpeza do código e a performance da aplicação.
 
+- **[Mkn-books-ds](https://github.com/MakenRosa/mkn-books-ds):** Projeto do curso "React: desenvolvendo uma biblioteca de componentes" da Alura. Nele, foi criada uma biblioteca de componentes, produzido um pacote NPM com TSDX, e explorada a publicação de componentes com uma estratégia específica. Também foi dado enfoque em styled components e versionamento com auto e GitHub Actions.
+
 ---
 
-## TYPESCRIPT 💻
+### TYPESCRIPT 💻
 
 - **[Bank](https://github.com/MakenRosa/bank):** No curso de TypeScript, aprendi a modelar classes, tipos, modificadores, generics, herança e enums, além de criar um mini framework de atualização de view inspirado no JSX.
 

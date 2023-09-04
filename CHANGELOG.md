@@ -1,3 +1,10 @@
+# [1.13.0](https://github.com/MakenRosa/alura-cursos/compare/v1.12.0...v1.13.0) (2023-08-07)
+
+
+### Features
+
+* **react:** finalizado projeto de design system ([7f5ffcc](https://github.com/MakenRosa/alura-cursos/commit/7f5ffccc68f4116948c33a4496185df749934b4a))
+
 # [1.12.0](https://github.com/MakenRosa/alura-cursos/compare/v1.11.0...v1.12.0) (2023-08-03)
 
 
