@@ -1,3 +1,10 @@
+# [1.15.0](https://github.com/MakenRosa/alura-cursos/compare/v1.14.0...v1.15.0) (2023-09-04)
+
+
+### Features
+
+* **javascript:** finalizado curso de copilot e chatGPT ([4289551](https://github.com/MakenRosa/alura-cursos/commit/428955198c7c77bdfd55ca06d7afa299e175139d))
+
 # [1.14.0](https://github.com/MakenRosa/alura-cursos/compare/v1.13.0...v1.14.0) (2023-09-04)
 
 
