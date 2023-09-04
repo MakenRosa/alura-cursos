@@ -33,6 +33,8 @@ Veja abaixo a lista dos projetos disponíveis, classificados por tecnologia:
 
 - **[Midi](https://github.com/MakenRosa/midi):** No curso "JavaScript para Web: Crie páginas dinâmicas", adquiri uma compreensão mais profunda dos papéis de cada tecnologia da Web para construção de páginas, e como associar JavaScript com HTML através do DOM. Além disso, implementei funções com JavaScript e investiguei possíveis soluções para problemas de código. Também aprendi a selecionar operadores lógicos adequados para diferentes situações, resultando na produção de soluções simples para páginas dinâmicas.
 
+- **[Pong](https://github.com/MakenRosa/pong):** No curso, aprendi a implementar a extensão Github Copilot Labs no meu VS Code e a criar classes de jogadores para o jogo de Pong espacial usando o Github Copilot. Também entendi como gerar colisões para a bola do Pong e fiz melhorias no cenário do jogo, adicionando imagens e sons para torná-lo mais imersivo.
+
 ---
 
 ### PYTHON 🐍
