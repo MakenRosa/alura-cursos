@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/MakenRosa/alura-cursos/compare/v1.13.0...v1.14.0) (2023-09-04)
+
+
+### Features
+
+* **dart:** inital commit ([35561d0](https://github.com/MakenRosa/alura-cursos/commit/35561d0611ec0a2f168a76fcb54474c900d2de2c))
+
 # [1.13.0](https://github.com/MakenRosa/alura-cursos/compare/v1.12.0...v1.13.0) (2023-08-07)
 
 
