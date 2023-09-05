@@ -1,3 +1,10 @@
+# [1.16.0](https://github.com/MakenRosa/alura-cursos/compare/v1.15.0...v1.16.0) (2023-09-05)
+
+
+### Features
+
+* **javascript:** finalized ChatGPT pong update ([cb33cb3](https://github.com/MakenRosa/alura-cursos/commit/cb33cb3d2fe6b57cc280f8e9bfd39ec1f0c654a5))
+
 # [1.15.0](https://github.com/MakenRosa/alura-cursos/compare/v1.14.0...v1.15.0) (2023-09-04)
 
 
