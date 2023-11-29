@@ -61,6 +61,8 @@ Veja abaixo a lista dos projetos disponíveis, classificados por tecnologia:
 
 - **[Mkn-books-ds](https://github.com/MakenRosa/mkn-books-ds):** Projeto do curso "React: desenvolvendo uma biblioteca de componentes" da Alura. Nele, foi criada uma biblioteca de componentes, produzido um pacote NPM com TSDX, e explorada a publicação de componentes com uma estratégia específica. Também foi dado enfoque em styled components e versionamento com auto e GitHub Actions.
 
+- **[Cooking-Up](https://github.com/MakenRosa/cooking-up):** No curso "IA no front-end: criando testes de unidade com a Luri", explorei o uso do Vitest e jsdom em React, além de otimização de testes com IA Generativa. Aprendi a implementar e avaliar testes IA em componentes React, com foco na Context API e estratégias eficientes de testes em pipelines de desenvolvimento.
+
 ---
 
 ### TYPESCRIPT 💻

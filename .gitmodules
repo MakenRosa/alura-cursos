@@ -43,3 +43,6 @@
 [submodule "javascript/pong"]
 	path = javascript/pong
 	url = https://github.com/makenrosa/pong
+[submodule "react/cooking-up"]
+	path = react/cooking-up
+	url = https://github.com/MakenRosa/cooking-up
