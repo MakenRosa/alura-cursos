@@ -1,3 +1,10 @@
+# [1.17.0](https://github.com/MakenRosa/alura-cursos/compare/v1.16.0...v1.17.0) (2023-11-29)
+
+
+### Features
+
+* **react:** add cooking-up as submodule ([b369a8d](https://github.com/MakenRosa/alura-cursos/commit/b369a8d4c4250f8a0c43b311ad63adc365d8981c))
+
 # [1.16.0](https://github.com/MakenRosa/alura-cursos/compare/v1.15.0...v1.16.0) (2023-09-05)
 
 
