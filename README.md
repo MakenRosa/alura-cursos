@@ -65,6 +65,13 @@ Veja abaixo a lista dos projetos disponíveis, classificados por tecnologia:
 
 ---
 
+### Redes-Cisco 🌐
+
+- **[Intranet](https://github.com/MakenRosa/intranet):\*\* Este projeto foi desenvolvido durante o curso "Redes: dos conceitos iniciais à criação de uma intranet" da Alura. Com uma abordagem prática e detalhada, o curso cobriu tópicos essenciais sobre o funcionamento das redes de computadores e a internet. Aprendi a selecionar e configurar dispositivos de rede, construir uma rede corporativa eficiente, conectar servidores em uma rede, e avaliar conexões e protocolos de comunicação. O projeto resultante é uma intranet corporativa funcional, destacando-se como um exemplo prático da aplicação de conhecimentos teóricos em redes.
+
+---
+
+
 ### TYPESCRIPT 💻
 
 - **[Bank](https://github.com/MakenRosa/bank):** No curso de TypeScript, aprendi a modelar classes, tipos, modificadores, generics, herança e enums, além de criar um mini framework de atualização de view inspirado no JSX.
