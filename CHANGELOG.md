@@ -1,3 +1,11 @@
+# [1.18.0](https://github.com/MakenRosa/alura-cursos/compare/v1.17.0...v1.18.0) (2023-12-26)
+
+
+### Features
+
+* **redes-cisco:** add intranet course ([e399922](https://github.com/MakenRosa/alura-cursos/commit/e399922236647689c52d2244b47d22de38d7f957))
+* **redes-cisco:** finish intranet project ([a704640](https://github.com/MakenRosa/alura-cursos/commit/a7046407a1cb5af9916ca359abbfccdc9b738345))
+
 # [1.17.0](https://github.com/MakenRosa/alura-cursos/compare/v1.16.0...v1.17.0) (2023-11-29)
 
 
