@@ -46,3 +46,6 @@
 [submodule "react/cooking-up"]
 	path = react/cooking-up
 	url = https://github.com/MakenRosa/cooking-up
+[submodule "redes-cisco/intranet"]
+	path = redes-cisco/intranet
+	url = https://github.com/makenrosa/intranet

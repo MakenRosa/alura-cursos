@@ -11,8 +11,9 @@ module.exports = {
           'javascript',
           'python',
           'react',
+          'redes-cisco',
           'typescript',
-        ]
+      ]
       ],
         'scope-case': [
             2,
