@@ -49,3 +49,6 @@
 [submodule "redes-cisco/intranet"]
 	path = redes-cisco/intranet
 	url = https://github.com/makenrosa/intranet
+[submodule "react-native/orgs"]
+	path = react-native/orgs
+	url = https://github.com/makenrosa/orgs

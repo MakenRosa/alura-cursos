@@ -11,6 +11,7 @@ module.exports = {
           'javascript',
           'python',
           'react',
+          'react-native',
           'redes-cisco',
           'typescript',
       ]
