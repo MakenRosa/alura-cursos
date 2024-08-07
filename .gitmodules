@@ -49,3 +49,6 @@
 [submodule "redes-cisco/intranet"]
 	path = redes-cisco/intranet
 	url = https://github.com/makenrosa/intranet
+[submodule "java/gpt_openai"]
+	path = java/gpt_openai
+	url = https://github.com/makenrosa/java-openai.git
