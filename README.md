@@ -1,6 +1,6 @@
 # Alura Cursos 🎓
 
-Este repositório contém vários projetos desenvolvidos durante os cursos da Alura. Cada projeto está localizado em uma pasta separada e possui seu próprio repositório no GitHub. 
+Este repositório contém vários projetos desenvolvidos durante os cursos da Alura. Cada projeto está localizado em uma pasta separada e possui seu próprio repositório no GitHub.
 
 Veja abaixo a lista dos projetos disponíveis, classificados por tecnologia:
 
@@ -12,6 +12,7 @@ Veja abaixo a lista dos projetos disponíveis, classificados por tecnologia:
 - [PYTHON](#python)
 - [REACT](#react)
 - [TYPESCRIPT](#typescript)
+- [JAVA](#java)
 
 ---
 
@@ -23,9 +24,16 @@ Veja abaixo a lista dos projetos disponíveis, classificados por tecnologia:
 
 ### HTML5-CSS3 🌐
 
-  - **[Barbershop](https://github.com/MakenRosa/barbershop):** No curso de HTML5 e CSS3, adquiri habilidades essenciais para o desenvolvimento web, aprendendo os fundamentos da criação de páginas web com HTML e CSS. 
+- **[Barbershop](https://github.com/MakenRosa/barbershop):** No curso de HTML5 e CSS3, adquiri habilidades essenciais para o desenvolvimento web, aprendendo os fundamentos da criação de páginas web com HTML e CSS.
 
-  - **[Portfolio](https://github.com/MakenRosa/barbershop):** Projeto desenvolvido durante os cursos de HTML e CSS da Alura, onde foram abordados temas como ambientes de desenvolvimento, estrutura de arquivos e tags, classes, posicionamento e Flexbox, cabeçalho, footer e variáveis CSS, além de trabalhar com responsividade e publicação de projetos. ▌
+- **[Portfolio](https://github.com/MakenRosa/barbershop):** Projeto desenvolvido durante os cursos de HTML e CSS da Alura, onde foram abordados temas como ambientes de desenvolvimento, estrutura de arquivos e tags, classes, posicionamento e Flexbox, cabeçalho, footer e variáveis CSS, além de trabalhar com responsividade e publicação de projetos.
+
+---
+
+### JAVA ☕️
+
+- **[GPT e Java](https://github.com/MakenRosa/java-openai):** No curso "GPT e Java: integre uma aplicação com a OpenAI", aprendi a desenvolver uma aplicação Java que se integra com a API da OpenAI. Durante o curso, implementei uma série de funcionalidades para análise de sentimentos, categorização de produtos e identificação de perfis, utilizando as melhores práticas de engenharia de prompts e tratamento de erros, além de gerenciar custos e contagem de tokens relacionados ao uso da API.
+
 
 ---
 
@@ -64,13 +72,6 @@ Veja abaixo a lista dos projetos disponíveis, classificados por tecnologia:
 - **[Cooking-Up](https://github.com/MakenRosa/cooking-up):** No curso "IA no front-end: criando testes de unidade com a Luri", explorei o uso do Vitest e jsdom em React, além de otimização de testes com IA Generativa. Aprendi a implementar e avaliar testes IA em componentes React, com foco na Context API e estratégias eficientes de testes em pipelines de desenvolvimento.
 
 ---
-
-### Redes-Cisco 🌐
-
-- **[Intranet](https://github.com/MakenRosa/intranet):** Este projeto foi desenvolvido durante o curso "Redes: dos conceitos iniciais à criação de uma intranet" da Alura. Com uma abordagem prática e detalhada, o curso cobriu tópicos essenciais sobre o funcionamento das redes de computadores e a internet. Aprendi a selecionar e configurar dispositivos de rede, construir uma rede corporativa eficiente, conectar servidores em uma rede, e avaliar conexões e protocolos de comunicação. O projeto resultante é uma intranet corporativa funcional, destacando-se como um exemplo prático da aplicação de conhecimentos teóricos em redes.
-
----
-
 
 ### TYPESCRIPT 💻
 
