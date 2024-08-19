@@ -1,3 +1,13 @@
+# [1.19.0](https://github.com/MakenRosa/alura-cursos/compare/v1.18.0...v1.19.0) (2024-08-19)
+
+
+### Features
+
+* Add Java/GPT OpenAI integration as submodule ([6da7aec](https://github.com/MakenRosa/alura-cursos/commit/6da7aecc4409f069a3945b744135940de8214816))
+* add java/gpt_openai as submodule ([5cb92db](https://github.com/MakenRosa/alura-cursos/commit/5cb92dbe4ba9356183e1d021e282ad2bbabbade0))
+* finish gpt e java course ([900d9a9](https://github.com/MakenRosa/alura-cursos/commit/900d9a9ec43bc378f75750387c6516036f466571))
+* **java:** finish GPT e JAVA alura course ([df7c839](https://github.com/MakenRosa/alura-cursos/commit/df7c8398e4243de0c73eed5567ffe9ab0e5e63b1))
+
 # [1.18.0](https://github.com/MakenRosa/alura-cursos/compare/v1.17.0...v1.18.0) (2023-12-26)
 
 
