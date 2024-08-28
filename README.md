@@ -43,6 +43,9 @@ Veja abaixo a lista dos projetos disponíveis, classificados por tecnologia:
 
 - **[Pong](https://github.com/MakenRosa/pong):** Este projeto foi desenvolvido durante dois cursos distintos. No primeiro, aprendi a implementar a extensão Github Copilot Labs no meu VS Code e a criar classes de jogadores para o jogo de Pong espacial usando o Github Copilot. Entendi como gerar colisões para a bola do Pong e fiz melhorias no cenário do jogo, adicionando imagens e sons para torná-lo mais imersivo. No curso "ChatGPT e JavaScript: construa o jogo Pong", aprendi a integrar o ChatGPT para melhorar a interação e proporcionar uma experiência de aprendizado mais envolvente. Conheci a ferramenta de IA ChatGPT e como utilizá-la para apoiar os estudos. O jogo foi construído utilizando a biblioteca p5.js e implementei Text to Speech para narrar a pontuação da partida. Também aprendi a formular prompts assertivos para gerar respostas mais adequadas.
 
+- **[Vidflow](https://github.com/MakenRosa/vidflow):** Neste curso, explorei como utilizar o ChatGPT para otimizar o desenvolvimento de projetos front-end. Aprendi a elaborar prompts eficientes, identificar e corrigir bugs rapidamente com a análise automática de código do ChatGPT, compreender códigos de terceiros e aplicar princípios e padrões de código. Também implementei o modo escuro e um modal, gerei expressões regulares (regex) para validação de textos, e desenvolvi autonomia no front-end explorando soluções com o ChatGPT.
+
+
 ---
 
 ### PYTHON 🐍
