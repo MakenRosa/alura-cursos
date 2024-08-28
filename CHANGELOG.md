@@ -1,3 +1,11 @@
+# [1.20.0](https://github.com/MakenRosa/alura-cursos/compare/v1.19.0...v1.20.0) (2024-08-28)
+
+
+### Features
+
+* add Vidflow as a submodule for JavaScript ([3c21fe7](https://github.com/MakenRosa/alura-cursos/commit/3c21fe720778c45d697097bd2d22ac9a51f4313e))
+* **javascript:** finish course ([94e689b](https://github.com/MakenRosa/alura-cursos/commit/94e689b1a131b39a651c87150c9342c181d466ed))
+
 # [1.19.0](https://github.com/MakenRosa/alura-cursos/compare/v1.18.0...v1.19.0) (2024-08-19)
 
 
